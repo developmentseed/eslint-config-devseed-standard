@@ -1,0 +1,10 @@
+{
+  "extends": ["standard", "standard-jsx"],
+  "plugins": ["import", "node", "react", "promise"],
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true
+  },
+  "rules": {}
+}
